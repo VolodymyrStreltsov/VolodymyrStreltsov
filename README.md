@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vladimir
-- 🌱 I’m currently learning JS
+- 🌱 I’m currently learning frontend and JS
 - 📫 How to reach me Vladimir.streltsov@gmail.com
 
 <!---
