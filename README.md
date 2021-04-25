@@ -1,6 +1,5 @@
 ### Hi, I'm Vladimir
 
-- 🌱 I'm currently learning frontend and JS, Python and machine learning
 - Contact me - Vladimir.streltsov@gmail.com 
 
 ### Languages and Tools:
