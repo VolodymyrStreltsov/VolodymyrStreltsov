@@ -1,7 +1,8 @@
 ### Hi, I'm Vladimir
 
-- Contact me - Vladimir.streltsov@gmail.com 
 ### My <a href="https://vladimirsteltsov.github.io/MyPortfolio/">portfolio</a>
+
+Contact me - Vladimir.streltsov@gmail.com 
 
 ### Languages and Tools:
 
