@@ -4,7 +4,7 @@
 
 Contact me - Vladimir.streltsov@gmail.com 
 
-<img src="https://www.codewars.com/users/St.Vladimir/badges/large">
+<a href="https://www.codewars.com/users/St.Vladimir"><img src="https://www.codewars.com/users/St.Vladimir/badges/large"></a>
 
 ### Languages and Tools:
 
