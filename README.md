@@ -1,6 +1,6 @@
 ### Hi, I'm Vladimir
 
-### My <a href="https://vladimirsteltsov.github.io/MyPortfolio/">portfolio</a>
+### My portfolio<a href="https://vladimirsteltsov.github.io/MyPortfolio/"> => HERE</a>
 
 Contact me - Vladimir.streltsov@gmail.com 
 
