@@ -16,7 +16,7 @@
 ### Contact me: 
 
 Vladimir.streltsov@gmail.com <br>
-<a href="https://www.linkedin.com/in/vladimir-streltsov-935622208/">LinkedIn</a><br>
+<a href="https://www.linkedin.com/in/streltsov-vladimir/">LinkedIn</a><br>
 <a href="https://www.facebook.com/VladimirR.StreltsovV/">Facebook</a>
 
 
