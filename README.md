@@ -1,6 +1,6 @@
 ### Hi, my name is Vladimir
 
-I am mostly growing in Front-end, but also interested and learning Front-end technologies
+I am mostly growing in Front-end, but also interested and learning Back-end technologies
 
 ### My portfolio is => <a href="https://vladimirsteltsov.github.io/MyPortfolio/">HERE</a>
 
