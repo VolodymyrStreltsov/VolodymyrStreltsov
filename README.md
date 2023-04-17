@@ -35,18 +35,13 @@
 <a target="_blank" href="https://www.strapi.io/" title="strapi"><img src="https://github.com/get-icon/geticon/raw/master/icons/strapi.svg" alt="strapi" width="21px" height="21px"></a>
 
 
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-      <thead>
-        <tr>
-          <td>
-            <img
-              src="https://streak-stats.demolab.com/?user=VolodymyrStreltsov&theme=tokyonight"
-              alt="GitHub Stats"
-            />
-          </td>
-        </tr>
-      </thead>
-    </table>
+<div>
+    <img
+      src="https://streak-stats.demolab.com/?user=VolodymyrStreltsov&theme=tokyonight"
+      alt="GitHub Stats"
+    />
+</div>
+<br>
 <a href="https://www.codewars.com/users/St.Vladimir"><img src="https://www.codewars.com/users/St.Vladimir/badges/large"></a><br>
 
 ### Let's have a collab!
