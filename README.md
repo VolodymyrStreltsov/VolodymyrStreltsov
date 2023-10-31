@@ -34,13 +34,6 @@
 <a target="_blank" href="https://www.docker.com/" title="docker"><img src="https://github.com/get-icon/geticon/raw/master/icons/docker-icon.svg" alt="docker" width="21px" height="21px"></a>
 <a target="_blank" href="https://www.strapi.io/" title="strapi"><img src="https://github.com/get-icon/geticon/raw/master/icons/strapi.svg" alt="strapi" width="21px" height="21px"></a>
 
-
-<div>
-    <img
-      src="https://streak-stats.demolab.com/?user=VolodymyrStreltsov&theme=tokyonight"
-      alt="GitHub Stats"
-    />
-</div>
 <br>
 <a href="https://www.codewars.com/users/St.Vladimir"><img src="https://www.codewars.com/users/St.Vladimir/badges/large"></a><br>
 
