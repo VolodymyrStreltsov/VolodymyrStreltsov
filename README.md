@@ -1,5 +1,3 @@
-<img height="70" src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" />
-
 ## A bit of my stack:
 
   <a target="_blank" href="https://www.typescriptlang.org/" title="Typescript"><img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" alt="Typescript" width="21px" height="21px"></a>
