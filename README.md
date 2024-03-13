@@ -1,39 +1,40 @@
-## A bit of my stack:
+# Welcome to My GitHub Profile! 🌐
 
-  <a target="_blank" href="https://www.typescriptlang.org/" title="Typescript"><img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" alt="Typescript" width="21px" height="21px"></a>
-<a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="21px" height="21px"></a>
-<a target="_blank" href="https://reactjs.org/" title="React"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="21px" height="21px"></a>
-<a target="_blank" href="https://redux.js.org/" title="Redux"><img src="https://github.com/get-icon/geticon/raw/master/icons/redux.svg" alt="Redux" width="21px" height="21px"></a>
-<a target="_blank" href="https://d3js.org/" title="D3"><img src="https://github.com/get-icon/geticon/raw/master/icons/d3.svg" alt="D3" width="21px" height="21px"></a>
-<a target="_blank" href="https://www.w3.org/TR/CSS/" title="CSS3"><img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" alt="CSS3" width="21px" height="21px"></a>
-<a target="_blank" href="https://sass-lang.com/" title="Sass"><img src="https://github.com/get-icon/geticon/raw/master/icons/sass.svg" alt="Sass" width="21px" height="21px"></a>
-<a target="_blank" href="https://tailwindcss.com/" title="Tailwind CSS"><img src="https://github.com/get-icon/geticon/raw/master/icons/tailwindcss-icon.svg" alt="Tailwind CSS" width="21px" height="21px"></a>
-<a target="_blank" href="https://material-ui.com/" title="Material UI"><img src="https://github.com/get-icon/geticon/raw/master/icons/material-ui.svg" alt="Material UI" width="21px" height="21px"></a>
-<a target="_blank" href="https://getbootstrap.com/" title="Bootstrap"><img src="https://github.com/get-icon/geticon/raw/master/icons/bootstrap.svg" alt="Bootstrap" width="21px" height="21px"></a>
-<a target="_blank" href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" width="21px" height="21px"></a>
-<a target="_blank" href="https://nodejs.org/" title="Node.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" alt="Node.js" width="21px" height="21px"></a>
-<a target="_blank" href="https://nextjs.org/" title="Next.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nextjs-icon.svg" alt="Next.js" width="21px" height="21px"></a>
-<a target="_blank" href="https://www.mongodb.org/" title="MongoDB"><img src="https://github.com/get-icon/geticon/raw/master/icons/mongodb-icon.svg" alt="MongoDB" width="21px" height="21px"></a>
-<a target="_blank" href="https://dev.mysql.com/" title="MySQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" alt="MySQL" width="21px" height="21px"></a>
-<a target="_blank" href="https://graphql.org/" title="GraphQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/graphql.svg" alt="GraphQL" width="21px" height="21px"></a>
-<a target="_blank" href="https://git-scm.com/" title="Git"><img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" alt="Git" width="21px" height="21px"></a>
-<a target="_blank" href="https://www.npmjs.com/" title="npm"><img src="https://github.com/get-icon/geticon/raw/master/icons/npm.svg" alt="npm" width="21px" height="21px"></a>
-<a target="_blank" href="https://yarnpkg.com/" title="Yarn"><img src="https://github.com/get-icon/geticon/raw/master/icons/yarn.svg" alt="Yarn" width="21px" height="21px"></a>
-<a target="_blank" href="https://webpack.js.org/" title="webpack"><img src="https://github.com/get-icon/geticon/raw/master/icons/webpack.svg" alt="webpack" width="21px" height="21px"></a>
-<a target="_blank" href="https://vitejs.dev/" title="Vite"><img src="https://github.com/get-icon/geticon/raw/master/icons/vite.svg" alt="Vite" width="21px" height="21px"></a>
-<a target="_blank" href="https://babeljs.io/" title="Babel"><img src="https://github.com/get-icon/geticon/raw/master/icons/babel.svg" alt="Babel" width="21px" height="21px"></a>
-<a target="_blank" href="https://eslint.org/" title="ESLint"><img src="https://github.com/get-icon/geticon/raw/master/icons/eslint.svg" alt="ESLint" width="21px" height="21px"></a>
-<a target="_blank" href="https://prettier.io/" title="Prettier"><img src="https://github.com/get-icon/geticon/raw/master/icons/prettier.svg" alt="Prettier" width="21px" height="21px"></a>
-<a target="_blank" href="https://jestjs.io/" title="Jest"><img src="https://github.com/get-icon/geticon/raw/master/icons/jest.svg" alt="Jest" width="21px" height="21px"></a>
-<a target="_blank" href="https://www.cypress.io/" title="Cypress"><img src="https://github.com/get-icon/geticon/raw/master/icons/cypress.svg" alt="Cypress" width="21px" height="21px"></a>
-<a target="_blank" href="https://aws.amazon.com/" title="AWS"><img src="https://github.com/get-icon/geticon/raw/master/icons/aws.svg" alt="AWS" width="21px" height="21px"></a>
-<a target="_blank" href="https://www.firebase.com/" title="Firebase"><img src="https://github.com/get-icon/geticon/raw/master/icons/firebase.svg" alt="Firebase" width="21px" height="21px"></a>
-<a target="_blank" href="https://www.docker.com/" title="docker"><img src="https://github.com/get-icon/geticon/raw/master/icons/docker-icon.svg" alt="docker" width="21px" height="21px"></a>
-<a target="_blank" href="https://www.strapi.io/" title="strapi"><img src="https://github.com/get-icon/geticon/raw/master/icons/strapi.svg" alt="strapi" width="21px" height="21px"></a>
+Hello! I'm a passionate Web Engineer with over five years of experience specializing in blending Frontend (70%) and Backend (30%) Development to create comprehensive web solutions. I'm dedicated to building responsive, high-quality user interfaces and robust backend systems.
 
-<br>
-<a href="https://www.codewars.com/users/St.Vladimir"><img src="https://www.codewars.com/users/St.Vladimir/badges/large"></a><br>
+## 🛠 A Bit of My Stack
 
-### Let's have a collab!
+I utilize a variety of technologies to bring vibrant web projects to life. Here's a snapshot of my technical toolkit:
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/streltsov-vladimir/)
+### Frontend Development:
+- **React, Next.js, Redux:** Crafting state-of-the-art user interfaces.
+- **CSS, HTML, JavaScript:** The foundation of all my web designs.
+- **Styling Frameworks:** Tailwind CSS, Material UI, Bootstrap, and more for stylish and responsive layouts.
+
+### Backend Development:
+- **Node.js:** For scalable server-side applications.
+- **SQL & NoSQL Databases:** Proficient with database management for comprehensive back-end operations.
+
+### Additional Tools and Technologies:
+- **Testing:** Experienced with Jest, RTL, and Cypress.
+- **Others:** GraphQL, Docker, Webpack, and more.
+
+Feel free to browse through the icons representing each technology in my stack!
+
+## 🚀 Let's Connect and Collaborate!
+
+I'm always looking for new challenges and collaborations. If you're interested in creating something incredible together or just want to chat about technology, don't hesitate to reach out!
+
+- **[LinkedIn](https://www.linkedin.com/in/streltsov-vladimir/)** - Connect with me professionally.
+
+## 🌱 Growing and Exploring
+
+I'm continuously learning and exploring new technologies in AI, Web3, and blockchain, understanding their potential to transform the digital world. My interests also include emerging tech trends like cryptocurrency, VR/AR, gaming, and investing.
+
+## 🎯 My Goals
+
+In every project, my aim is to leverage my comprehensive skill set to deliver meaningful and impactful solutions. I aspire to continue advancing in technology and business strategy, collaborating with teams that challenge the status quo and push the boundaries of digital innovation.
+
+Thank you for visiting my profile. Let's make the digital world a better, more connected place, one project at a time!
+
+
