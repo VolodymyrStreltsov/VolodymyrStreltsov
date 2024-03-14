@@ -4,20 +4,23 @@ Hello! I'm a passionate Web Engineer with over five years of experience speciali
 
 ## 🛠 A Bit of My Stack
 
-I utilize a variety of technologies to bring vibrant web projects to life. Here's a snapshot of my technical toolkit:
+I utilize a variety of technologies to bring vibrant web / mobile projects to life. Here's a snapshot of my technical toolkit:
 
 ### Frontend Development:
 - **React, Next.js, Redux:** Crafting state-of-the-art user interfaces.
 - **CSS, HTML, JavaScript:** The foundation of all my web designs.
-- **Styling Frameworks:** Tailwind CSS, Material UI, Bootstrap, and more for stylish and responsive layouts.
+- **Styling Frameworks:** Tailwind CSS, Material UI, Bootstrap, SCSS and more for stylish and responsive layouts.
 
 ### Backend Development:
 - **Node.js:** For scalable server-side applications.
 - **SQL & NoSQL Databases:** Proficient with database management for comprehensive back-end operations.
 
+### Mobile Development:
+- **React Native, Expo**
+
 ### Additional Tools and Technologies:
 - **Testing:** Experienced with Jest, RTL, and Cypress.
-- **Others:** GraphQL, Docker, Webpack, and more.
+- **Others:** GraphQL, Docker, Webpack, D3, Three.js and more.
 
 Feel free to browse through the icons representing each technology in my stack!
 
