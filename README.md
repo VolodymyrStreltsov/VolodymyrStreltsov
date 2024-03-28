@@ -1,6 +1,6 @@
-# Hello! I'm a passionate Web Engineer
-with over five years of experience specializing in blending Frontend (70%) and Backend (30%) Development to create comprehensive web solutions. 
-I'm dedicated to building responsive, high-quality user interfaces and robust backend systems.
+# Hello! I'm an experienced Software Engineer 
+specializing in blending Frontend (70%) with Mobile and Backend Development (30%) to create comprehensive software solutions. 
+I am dedicated to building high-quality systems and contributing to all parts of projects, including the business aspects, to ensure their success.
 
 ## 🛠 A Bit of My Stack
 
@@ -19,7 +19,7 @@ I'm dedicated to building responsive, high-quality user interfaces and robust ba
 
 ### Additional Tools and Technologies:
 - **Testing:** Experienced with Jest, RTL, and Cypress.
-- **Others:** GraphQL, Docker, Webpack, D3, Three.js and more.
+- **Others:** GraphQL, Docker, Webpack, D3, Three.js, Python and more.
 
 ## 🚀 Let's Connect and Collaborate!
 
