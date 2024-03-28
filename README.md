@@ -1,5 +1,5 @@
 # Hello! I'm an experienced Software Engineer 
-specializing in blending Frontend (70%) with Mobile and Backend Development (30%) to create comprehensive software solutions. 
+specializing in blending Frontend (70%) with Mobile and Backend Development (30%) to create comprehensive software solutions. <br/>
 I am dedicated to building high-quality systems and contributing to all parts of projects, including the business aspects, to ensure their success.
 
 ## 🛠 A Bit of My Stack
@@ -7,7 +7,7 @@ I am dedicated to building high-quality systems and contributing to all parts of
 ### Frontend Development:
 - **React, Next.js, Redux**
 - **CSS, HTML, JavaScript**
-- **Styling Frameworks:** Tailwind CSS, Material UI, Bootstrap, SCSS and more for stylish and responsive layouts.
+- **Styling Frameworks as** Tailwind CSS, Material UI, Bootstrap, SCSS and more
 - **Animations and Data Visualisation**
 
 ### Backend Development:
