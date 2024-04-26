@@ -1,28 +1,29 @@
-# Hello! I'm an experienced Software Engineer 
-specializing in blending Frontend (70%) with Mobile and Backend Development (30%) to create comprehensive software solutions. <br/>
-I am dedicated to building high-quality systems and contributing to all parts of projects, including the business aspects, to ensure their success.
+# Hello! I'm Volodymyr Streltsov, a seasoned Frontend Developer with a strong Full-Stack background.
 
-## 🛠 A Bit of My Stack
+With over 5 years of experience in developing and optimizing web applications, I specialize in creating robust, scalable frontends while integrating comprehensive backend and mobile technologies to deliver full-spectrum software solutions.
 
-### Frontend Development:
-- **React, Next.js, Redux**
-- **CSS, HTML, JavaScript**
-- **Styling Frameworks as** Tailwind CSS, Material UI, Bootstrap, SCSS and more
-- **Animations and Data Visualisation**
+Visit my [playground site](https://volodymyrstreltsov.github.io)
 
-### Backend Development:
-- **Node.js**
-- **SQL & NoSQL Databases**
+## 🛠 Technical Expertise
+
+### Frontend Mastery:
+- **Proficient in React, Next.js, Redux**: Building dynamic, SEO-optimized, and user-focused applications.
+- **Advanced Styling**: Proficient with SCSS, Tailwind CSS, Bootstrap, Styled Components, Material UI (MUI), and responsive design.
+- **Rich Interactivity and Visualization**: Expertise in animations, data visualization with D3.js, SVG, and interactive 3D models using Three.js.
+
+### Backend and API Development:
+- **Node.js**: Crafting efficient backend solutions.
+- **Databases**: Experienced with both SQL (PostgreSQL, MySQL) and NoSQL technologies.
+- **API Development**: Skilled in creating and integrating RESTful and GraphQL APIs.
 
 ### Mobile Development:
-- **React Native, Expo**
+- **React Native & Expo**: Developing cross-platform mobile applications that provide seamless user experiences.
 
-### Additional Tools and Technologies:
-- **Testing:** Experienced with Jest, RTL, and Cypress.
-- **Others:** GraphQL, Docker, Webpack, D3, Three.js, Python and more.
+### Additional Proficiencies:
+- **Testing and Quality Assurance**: Deep experience with Cypress, Jest, and React Testing Library.
+- **Performance Optimization**: Leveraging tools like Webpack and understanding Core Web Vitals to enhance application performance.
+- **Modern Tooling**: Utilizing Docker for containerization, and familiar with cloud services from AWS and GCP.
 
-## 🚀 Let's Connect and Collaborate!
+## 🌐 Connect With Me
 
-- **[LinkedIn](https://www.linkedin.com/in/streltsov-vladimir/)**
-
-
+Connect with me on [LinkedIn](https://www.linkedin.com/in/streltsov-vladimir/)
