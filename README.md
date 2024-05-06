@@ -2,7 +2,7 @@
 
 With over 5 years of experience in developing and optimizing web applications, I specialize in creating robust, scalable frontends while integrating comprehensive backend and mobile technologies to deliver full-spectrum software solutions.
 
-Visit my [playground site](https://volodymyrstreltsov.github.io)
+Visit my <a href="https://volodymyrstreltsov.github.io" target="_blank">playground site</a>.
 
 ## 🛠 Technical Expertise
 
