@@ -1,28 +1,43 @@
-# Hello! I'm Volodymyr Streltsov, a seasoned Frontend Developer with a strong Full-Stack background.
+# Hello! I'm Volodymyr Streltsov, a seasoned Frontend Developer.
 
-With over 5 years of experience in developing and optimizing web applications, I specialize in creating robust, scalable frontends while integrating comprehensive backend and mobile technologies to deliver full-spectrum software solutions.
+With over 5 years of experience in developing and optimizing web applications, I am proficient in a broad range of technologies including React, Next.js, and Redux. I have demonstrated proven leadership in project management, enhancing SEO, and elevating user engagement. My strong attention to performance and security ensures the delivery of high-quality, robust applications. I excel in debugging, analytical, and problem-solving abilities.
 
 Visit my <a href="https://volodymyrstreltsov.github.io" target="_blank">playground site</a>.
 
 ## 🛠 Technical Expertise
+### Main Stack:
 
-### Frontend Mastery:
-- **Proficient in React, Next.js, Redux**: Building dynamic, SEO-optimized, and user-focused applications.
-- **Advanced Styling**: Proficient with SCSS, Tailwind CSS, Bootstrap, Styled Components, Material UI (MUI), and responsive design.
-- **Rich Interactivity and Visualization**: Expertise in animations, data visualization with D3.js, SVG, and interactive 3D models using Three.js.
+JavaScript (ES6+), TypeScript, React, Redux, Next.js, HTML5, CSS3: Building dynamic, SEO-optimized, and user-focused applications.
 
-### Backend and API Development:
-- **Node.js**: Crafting efficient backend solutions.
-- **Databases**: Experienced with both SQL (PostgreSQL, MySQL) and NoSQL technologies.
-- **API Development**: Skilled in creating and integrating RESTful and GraphQL APIs.
+### Styling:
 
-### Mobile Development:
-- **React Native & Expo**: Developing cross-platform mobile applications that provide seamless user experiences.
+SCSS, Tailwind CSS, Bootstrap, Styled Components, MUI
+
+### API, CMS, Backend (Interested and Experienced With):
+
+RTK Query, GraphQL, REST APIs, Strapi, Builder.io, Node.js
+
+### Databases & CI/CD:
+
+Firebase, Supabase, Prisma, SQL, GCP, Vercel, Git
+
+### Testing:
+
+Cypress, Jest, React Testing Library (RTL)
+
+### Data Visualization and 3D:
+
+Three.js, D3.js, SVG, HTML Canvas
+
+### Performance Optimization, SEO & Accessibility:
+
+Core Web Vitals, Webpack, SEO
 
 ### Additional Proficiencies:
-- **Testing and Quality Assurance**: Deep experience with Cypress, Jest, and React Testing Library.
-- **Performance Optimization**: Leveraging tools like Webpack and understanding Core Web Vitals to enhance application performance.
-- **Modern Tooling**: Utilizing Docker for containerization, and familiar with cloud services from AWS and GCP.
+
+n8n, i18n, PWA, Storybook, Zod, Formik, React Hook Form, React Native, Zustand
+
+Cybersecurity Fundamentals, Prompt Engineering and AI/ML Fundamentals, Python Fundamentals
 
 ## 🌐 Connect With Me
 
