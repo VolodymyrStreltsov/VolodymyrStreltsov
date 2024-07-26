@@ -4,7 +4,13 @@ With over 5 years of experience in developing and optimizing web applications, I
 
 Visit my <a href="https://volodymyrstreltsov.github.io" target="_blank">playground site</a>.
 
+<div style="display: flex; justify-content: space-between; position: relative;">
+  <img src="https://github.com/user-attachments/assets/5a7674e9-1af9-4de3-8c99-cffba0f31a3c" alt="Screenshot Intro" style="width: 45%;">
+  <img src="https://github.com/user-attachments/assets/4b69bf10-4c2c-4053-8db8-5edbb8d50039" alt="Screenshot Cosmos" style="width: 49%; position: absolute; top: 0; right: 20px;">
+</div>
+
 ## 🛠 Technical Expertise
+
 ### Main Stack:
 
 JavaScript (ES6+), TypeScript, React, Redux, Next.js, HTML5, CSS3: Building dynamic, SEO-optimized, and user-focused applications.
