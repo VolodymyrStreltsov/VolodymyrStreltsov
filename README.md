@@ -17,7 +17,7 @@ JavaScript (ES6+), TypeScript, React, Redux, Next.js, HTML5, CSS3: Building dyna
 
 ### Styling:
 
-SCSS, Tailwind CSS, Bootstrap, Styled Components, MUI
+SCSS, Tailwind CSS, Bootstrap, Styled Components, MUI 
 
 ### API, CMS, Backend (Interested and Experienced With):
 
