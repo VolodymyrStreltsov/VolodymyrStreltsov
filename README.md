@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Volodymyr Streltsov: Web Developer
+# 👋 Hi, I'm Volodymyr: Web Developer
 
 **Visit my [playground site](https://volodymyrstreltsov.github.io)**
 
