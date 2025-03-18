@@ -8,11 +8,12 @@
 </div>
 
 ## 🔧 Tech Stack
-⚛️ React | Next.js | JavaScript | TypeScript | Redux | Tailwind \
-🔍 SEO | Core Web Vitals | Accessibility \
-🧪 Jest | Cypress | RTL \
-🎨 Three.js | D3.js | SVG \
-🔄 GraphQL | REST | Prisma | Firebase 
+⚛️ React | React Native | Node.js | Electron | Next.js | JavaScript | TypeScript \
+🔍 SEO \
+🧪 Testing \
+🎨 UI/UX \
+📺 Visualisation | Three.js | D3.js | SVG \
+🔄 GraphQL | REST | Prisma | Firebase | SQL
 
 ## 🌐 Let's Connect
 Find me on [LinkedIn](https://www.linkedin.com/in/streltsov-vladimir/)
